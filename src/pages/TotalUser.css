@@ -1,0 +1,10 @@
+.tableUser{
+    margin-left: 100px;
+    width: 100% !important;
+} 
+.tableUser th{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+
+}

@@ -1,0 +1,20 @@
+/* user table */
+.tableUser{
+    @apply border-collapse border ;
+}
+.tableUser th{
+    @apply border-collapse border text-base font-medium ;
+    
+} 
+.tableUser td{
+    @apply border-collapse border text-base font-medium text-center p-2 ;
+    
+} 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.scrollbar-none::-webkit-scrollbar{
+    display: none;
+}
